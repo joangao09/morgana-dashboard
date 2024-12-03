@@ -66,6 +66,7 @@ const menuGroups = [
           { label: "Alarm", route: "/tables/alarm" },
           { label: "Breakdown", route: "/tables/breakdown" },
           { label: "Samples", route: "/tables/samples" },
+          { label: "Machines", route: "/tables/machines" },
         ],
       },
       {
